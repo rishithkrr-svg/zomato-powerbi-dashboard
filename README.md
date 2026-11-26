@@ -18,7 +18,7 @@ Power BI, Power Query
 ## Dashboard
 
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard222.png)
 
 
 
