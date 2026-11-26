@@ -27,6 +27,11 @@ Includes:
 - Avg delivery time by traffic density, vehicle type and city
 - Orders trend by date, orders by order type
 - Slicers: City, Festival, Road traffic density
-
+  ## Key Findings
+## Key Findings
+1. Total orders analysed: 41,368, with an average delivery time of 26.55 min
+2. Semi-Urban cities have the highest average delivery time (49.71 min), about 2x Urban (23.21 min)
+3. Traffic Jam orders take the longest, Low traffic the shortest
+4. Average delivery partner rating is 4.63
 ## Files
 - dashboardpowerbi.pbix
